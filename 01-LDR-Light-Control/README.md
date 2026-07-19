@@ -23,7 +23,7 @@ A simple Arduino project that automatically controls an LED based on the ambient
 ## Components
 
 * Arduino Uno
-* LDR (Light Dependent Resistor)
+* LDR MLG12516 (Light Dependent Resistor)
 * 10kΩ Resistor
 * LED
 * 220Ω Resistor
