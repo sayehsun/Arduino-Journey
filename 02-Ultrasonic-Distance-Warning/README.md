@@ -15,9 +15,6 @@ This project also demonstrates the use of **external interrupts** for accurate p
 * 🔊 Variable beep rate based on measured distance
 * 🚨 Continuous alarm when an object is very close
 * 💡 LED synchronized with the buzzer
-* 🛡️ Basic hardware noise filtering
-* ⏱️ Sensor timeout detection for disconnected or invalid measurements
-* 📟 Serial Monitor output for debugging
 
 ---
 
