@@ -22,7 +22,7 @@ This project also demonstrates the use of **external interrupts** for accurate p
 
 * Arduino Uno (or compatible)
 * HC-SR04 Ultrasonic Sensor
-* Passive Buzzer
+* 5V Passive Buzzer
 * LED
 * 220Ω resistor (for the LED)
 * Breadboard
