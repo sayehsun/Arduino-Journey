@@ -17,7 +17,8 @@ This repository covers a variety of sensors, actuators, communication interfaces
 ```text
 Arduino-Journey/
 ├── 01-LDR-Light-Control/
-├── 02-...
+├── 02-Ultrasonic-Distance-Warning/
+├── 03-...
 └── README.md
 ```
 
@@ -29,12 +30,13 @@ Arduino-Journey/
 * Circuit diagram or wiring image (when applicable)
 * Project description and implementation details
 
-## Projects
+## Projects 
 
 | #  | Project           | Description                                                | Status |
 | -- | ----------------- | ---------------------------------------------------------- | :----: |
 | 01 | LDR Light Control | Turn an LED on or off based on ambient light using an LDR. |    ✅   |
-| 02 | Coming Soon       | More projects will be added as the repository grows.       |   🚧   |
+| 02 | Ultrasonic Distance Warning | Detect nearby obstacles with an ultrasonic sensor and provide visual (LED) and audible (buzzer) distance warnings. | ✅ |
+| 03 | Coming Soon       | More projects will be added as the repository grows.       |   🚧   |
 
 ---
 
