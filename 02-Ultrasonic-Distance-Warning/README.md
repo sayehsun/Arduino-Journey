@@ -71,9 +71,9 @@ This project also demonstrates the use of **external interrupts** for accurate p
 
 ## Demo
 
-https://github.com/sayehsun/Arduino-Journey/02-Ultrasonic-Distance-Warning/images/demo.mp4
-
-> GitHub displays videos directly on the repository page.
+<p align="center">
+  <img src="images/demo.gif" alt="Project Demo" width="600">
+</p>
 
 ---
 
