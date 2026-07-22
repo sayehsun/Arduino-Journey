@@ -59,10 +59,11 @@ void loop() {
       distance_cm = distance_calculator(duration);
       distance_valid = true;
       last_measurement_time = millis();
-      
+      /*
       Serial.print("Distance: ");
       Serial.print(distance_cm);
       Serial.println(" cm");
+      */
     }
   }
   
